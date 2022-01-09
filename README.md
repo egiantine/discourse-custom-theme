@@ -1,4 +1,4 @@
-## Sam's simple discourse theme
+## Discourse custom theme 
 
-More info at: https://meta.discourse.org/t/sams-personal-minimal-topic-list-design/23552?u=sam
+https://github.com/egiantine/discourse-custom-theme
 
